@@ -1,2 +1,0 @@
-# FDTD
-FDTD usage research
